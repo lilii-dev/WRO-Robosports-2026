@@ -1,7 +1,7 @@
 WRO RoboSport 2026
 
-![Attack - Robosport.jpeg]
-![Defender-Robosport.jpeg]
+[Attack - Robosport.jpeg]
+[Defender-Robosport.jpeg]
 Overview
 
 A robotics competition project developed for the World Robot Olympiad (WRO) RoboSport 2026 category using LEGO SPIKE Prime and Python.
